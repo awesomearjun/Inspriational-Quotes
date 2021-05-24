@@ -1,8 +1,8 @@
 body {
-    cursor: pointer;
+    padding: 30vh;
+    text-align: center;
 }
 
 h1 {
-    padding-left: 50%;
-    padding-top: 36vh;
+    justify-content: center;
 }
